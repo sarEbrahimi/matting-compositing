@@ -38,6 +38,9 @@ C=aF+(1-a)B
 ![Screenshot from 2023-07-25 08-02-55](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/1b4cf73f-fafd-425a-aa7d-522390561ea5)
 
 no blue in foreground. Only blue in background
+
 ![Screenshot from 2023-07-25 08-02-53](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/559ff227-ec14-476b-8698-1dd561b89722)
 
-
+<h1>Blue/Green screen matting issues</h1>
+ How to extract shadows cast on background
+ 
