@@ -12,3 +12,9 @@ first lests see the difference between matting and composing
 
 ![Screenshot from 2023-07-25 07-38-51](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/c6e77f3a-5d91-444e-b9b9-878829b83032)
 
+<h1>compositing</h1>
+Given the foreground color F=(Fr, Fg, Fb), the
+background color (Br, Bg, Bb) and  for each pixel
+The compositing operation is: C=aF+(1-a)B
+![Screenshot from 2023-07-25 07-43-51](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/1775ca06-86c7-4c0c-bd51-96b8bf620283)
+
