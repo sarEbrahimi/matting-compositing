@@ -14,7 +14,7 @@ first lests see the difference between matting and composing
 
 <h1>compositing</h1>
 Given the foreground color F=(Fr, Fg, Fb), the
-background color (Br, Bg, Bb) and  for each pixel
+background color (Br, Bg, Bb) and a for each pixel
 The compositing operation is: C=aF+(1-a)B
 ![Screenshot from 2023-07-25 07-43-51](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/1775ca06-86c7-4c0c-bd51-96b8bf620283)
 
@@ -25,3 +25,19 @@ and a background
 • Given an image color C, find F, B and  so that
 C=aF+(1-a)B
 ![Screenshot from 2023-07-25 07-48-56](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/2ea9e0e6-dd92-43f9-8e15-10e2b2f0c2b7)
+
+<h1>Traditional blue screen matting</h1>
+• Invented by Petro Vlahos
+(Technical Academy Award 1995)
+• formalized by Smith & Blinn
+• Initially for film, then video, then digital
+• Assume that the foreground has no blue
+• Assume background is mainly blue
+
+<h1>How blue screen works</h1>
+![Screenshot from 2023-07-25 08-02-55](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/1b4cf73f-fafd-425a-aa7d-522390561ea5)
+
+no blue in foreground. Only blue in background
+![Screenshot from 2023-07-25 08-02-53](https://github.com/sarEbrahimi/matting-compositing/assets/94298181/559ff227-ec14-476b-8698-1dd561b89722)
+
+
